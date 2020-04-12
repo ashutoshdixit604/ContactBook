@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6472892d-8604-4047-bd34-2895b23be79c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZwmR8aJK9i0UecBDf7rRT1e34q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/lagom-java-sbt" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Java Scratch">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="contactbook" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="lagom-internal-meta-project-cassandra [file:/home/a/Documents/myrepo/ContactBook/]" />
+                <option name="path" value="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="contactbook-api [file:/home/a/Documents/myrepo/ContactBook/]" />
+                <option name="path" value="$PROJECT_DIR$/contactbook-api" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="contactbook [file:/home/a/Documents/myrepo/ContactBook/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="contactbook-impl [file:/home/a/Documents/myrepo/ContactBook/]" />
+                <option name="path" value="$PROJECT_DIR$/contactbook-impl" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="lagom-internal-meta-project-service-locator [file:/home/a/Documents/myrepo/ContactBook/]" />
+                <option name="path" value="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="common [file:/home/a/Documents/myrepo/ContactBook/]" />
+                <option name="path" value="$PROJECT_DIR$/common" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="lagom-internal-meta-project-kafka [file:/home/a/Documents/myrepo/ContactBook/]" />
+                <option name="path" value="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="contactbook-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4757311057372" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="4135103188" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="909447134" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../AggregationOdsUtility" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../fatca-utility" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ifrm-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ifrm-ods-utility" value="PREVIEW" />
+        <entry key="$USER_HOME$/Videos/sq-panda-test/movie-tv-api" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6472892d-8604-4047-bd34-2895b23be79c" name="Default Changelist" comment="" />
+      <created>1585758519288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585758519288</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="199" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586075497697">
+      <screen x="0" y="27" width="1600" height="830" />
+    </state>
+    <state x="533" y="199" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.27.1600.830@0.27.1600.830" timestamp="1586075497697" />
+    <state x="482" y="246" width="625" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585759920640">
+      <screen x="0" y="27" width="1600" height="830" />
+    </state>
+    <state x="482" y="246" width="625" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1600.830@0.27.1600.830" timestamp="1585759920640" />
+    <state x="583" y="199" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585845043833">
+      <screen x="0" y="27" width="1600" height="830" />
+    </state>
+    <state x="583" y="199" width="424" height="484" key="FileChooserDialogImpl/0.27.1600.830@0.27.1600.830" timestamp="1585845043833" />
+    <state x="445" y="153" width="801" height="576" key="find.popup" timestamp="1586510236591">
+      <screen x="0" y="27" width="1600" height="830" />
+    </state>
+    <state x="445" y="153" width="801" height="576" key="find.popup/0.27.1600.830@0.27.1600.830" timestamp="1586510236591" />
+    <state x="109" y="167" width="1372" height="547" key="new project wizard" timestamp="1585844352950">
+      <screen x="0" y="27" width="1600" height="830" />
+    </state>
+    <state x="109" y="167" width="1372" height="547" key="new project wizard/0.27.1600.830@0.27.1600.830" timestamp="1585844352950" />
+    <state x="464" y="197" key="run.anything.popup" timestamp="1585899381158">
+      <screen x="0" y="27" width="1600" height="830" />
+    </state>
+    <state x="464" y="197" key="run.anything.popup/0.27.1600.830@0.27.1600.830" timestamp="1585899381158" />
+    <state x="463" y="178" width="672" height="678" key="search.everywhere.popup" timestamp="1586102374124">
+      <screen x="0" y="27" width="1600" height="830" />
+    </state>
+    <state x="463" y="178" width="672" height="678" key="search.everywhere.popup/0.27.1600.830@0.27.1600.830" timestamp="1586102374124" />
+  </component>
+</project>
