@@ -1,0 +1,40 @@
+<configuration>
+
+    <property name="DEV_HOME" value="/home/a/contact-book-api"/>
+    <conversionRule conversionWord="coloredLevel" converterClass="com.lightbend.lagom.internal.logback.ColoredLevel"/>
+
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%date{"HH:mm:ss.SSS"} %coloredLevel %logger [%mdc] - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <logger name="play" level="INFO"/>
+    <logger name="akka" level="INFO"/>
+    <logger name="com.lightbend.lagom" level="INFO"/>
+
+    <logger name="org.apache.cassandra" level="ERROR"/>
+    <logger name="com.datastax.driver" level="ERROR"/>
+    <logger name="com.datastax.driver.core.ControlConnection" level="OFF"/>
+    <logger name="org.apache.kafka" level="WARN"/>
+
+    <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${DEV_HOME}/ifrm-ods.log</file>
+        <encoder>
+            <pattern>%date{"HH:mm:ss.SSS"} %coloredLevel %logger [%mdc] - %msg%n</pattern>
+        </encoder>
+
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>${DEV_HOME}/archived/%d{yyyy-MM-dd}.%i.log</fileNamePattern>
+            <timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+                <maxFileSize>20MB</maxFileSize>
+            </timeBasedFileNamingAndTriggeringPolicy>
+        </rollingPolicy>
+    </appender>
+
+    <root level="INFO">
+        <appender-ref ref="STDOUT"/>
+        <appender-ref ref="FILE"/>
+    </root>
+
+</configuration>
